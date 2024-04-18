@@ -39,7 +39,7 @@ source devel/setup.bash
 ## Usage <a name="usage"></a>
 1\. start the ROS core by using the following code:
 ```bash
-source devel/setup.bash
+roscore
 ```
 
 2\. Launch the robot info node:
